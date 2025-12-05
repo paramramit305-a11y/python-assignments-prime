@@ -11,4 +11,5 @@ a = float("45")
 print(type(a))
 
 a = str(45)
+
 print(type(a))
